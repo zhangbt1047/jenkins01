@@ -1,2 +1,2 @@
 # jenkins01
-git+github
+git+github+jenkins+nginx
